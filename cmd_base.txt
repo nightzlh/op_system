@@ -1,0 +1,10 @@
+link:
+    ln option 源文件　目标文件
+    -s: 创建软链接
+
+selinux:
+    查看selinux 状态: sestatus
+    close temporary: setenforce 0
+    set close in config: /etc/selinux/config
+       
+
